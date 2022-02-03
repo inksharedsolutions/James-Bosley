@@ -1,5 +1,5 @@
 import React from 'react'
-import AuthorImg from '../../static/author/dummy-profile.jpg';
+import AuthorImg from '../../static/author/author.jpg';
 import DummyAuthor from "../../static/author/dummy-profile.jpg";
 import { Link } from 'gatsby'
 
